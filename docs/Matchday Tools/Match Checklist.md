@@ -2,6 +2,7 @@
 title: Match Checklist
 nav_order: 1
 parent: Matchday Tools
+layout: default
 ---
 
 ## ✅ Match Day Checklist
