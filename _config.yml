@@ -1,0 +1,11 @@
+title: "Khakis & Kick-Offs"
+description: "The Aussie fan’s World Cup 2026 travel toolkit"
+theme: just-the-docs
+
+# Optional: set a logo or favicon
+logo: "/assets/logo.png"
+favicon_ico: "/assets/favicon.ico"
+
+# URL structure
+url: "https://mrwayeo.github.io"
+baseurl: "/khakis-toolkit"  # your repo name

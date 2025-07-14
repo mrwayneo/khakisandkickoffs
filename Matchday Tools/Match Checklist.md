@@ -1,3 +1,9 @@
+---
+title: Match Checklist
+nav_order: 1
+parent: Matchday Tools
+---
+
 ## ✅ Match Day Checklist
 
 - [ ] Tickets downloaded
