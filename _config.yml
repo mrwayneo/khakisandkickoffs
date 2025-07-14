@@ -7,5 +7,11 @@ logo: "/assets/logo.png"
 favicon_ico: "/assets/favicon.ico"
 
 # URL structure
-url: "https://mrwayneo.github.io"
-baseurl: "/khakis-toolkit"  # your repo name
+url: "https://mrwayneo.github.io/khakis-toolkit"
+baseurl: ""  # your repo name
+
+search_enabled: true
+
+aux_links:
+  "GitHub Repo":
+    - "https://github.com/mrwayneo/khakis-toolkit"
