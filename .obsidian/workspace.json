@@ -181,6 +181,12 @@
   },
   "active": "1f31c3fecfed20e4",
   "lastOpenFiles": [
+    "docs/LICENSE",
+    "docs/_config.yml",
+    "docs/index.md",
+    "docs/README.md",
+    "docs/Gemfile.lock",
+    "docs/Gemfile",
     "docs/Visa Guide.md",
     "docs",
     "_docs",
