@@ -1,4 +1,8 @@
-
+---
+title: New York
+nav_order: 3
+parent: City Guides
+---
 Recommended areas to stay:
 
 - **Midtown Manhattan** – Core of fan buzz, match viewing parties, fast subway access

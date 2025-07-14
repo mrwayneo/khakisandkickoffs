@@ -1,4 +1,12 @@
+---
 
+title: Miami
+
+nav_order: 2
+
+parent: City Guides
+
+---
 Recommended areas to stay:
 
 - **South Beach (15th & Española Way)** – Beach, nightlife, fan buzz central

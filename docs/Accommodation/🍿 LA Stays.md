@@ -1,4 +1,12 @@
+---
 
+title: Los Angeles
+
+nav_order: 1
+
+parent: City Guides
+
+---
 ### **📍 Best Areas to Stay**
 
 - **Downtown LA** – Near Crypto.com Arena & nightlife

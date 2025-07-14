@@ -11,10 +11,14 @@
             "id": "1f31c3fecfed20e4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/Accommodation/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -177,21 +181,22 @@
   },
   "active": "1f31c3fecfed20e4",
   "lastOpenFiles": [
-    "Packing & Travel/Packing List.md",
-    "docs/Packing & Travel/Packing List.md",
-    "docs/Packing & Travel",
-    "docs/Matchday Tools/Match Checklist.md",
-    "docs/Matchday Tools",
-    "docs/Docs & Visas/Visa Guide.md",
-    "docs/Docs & Visas",
-    "docs/Accommodation/🦩 Miami Stays.md",
     "docs/Accommodation/🗽 New York Stays.md",
+    "docs/Accommodation/index.md",
+    "docs/Accommodation/🦩 Miami Stays.md",
     "docs/Accommodation/🍿 LA Stays.md",
+    "docs/Docs & Visas/Visa Guide.md",
+    "docs/Packing & Travel/Packing List.md",
+    "docs/Matchday Tools/Match Checklist.md",
+    "docs/index.md",
+    "Packing & Travel/Packing List.md",
+    "docs/Packing & Travel",
+    "docs/Matchday Tools",
+    "docs/Docs & Visas",
     "docs/Accommodation/Tips & Booking.md",
     "docs/Accommodation",
     "docs/LICENSE",
     "docs/_config.yml",
-    "docs/index.md",
     "docs/README.md",
     "docs/Gemfile.lock",
     "docs/Gemfile",
