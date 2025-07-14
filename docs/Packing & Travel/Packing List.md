@@ -1,3 +1,9 @@
+---
+title: Packing List
+nav_order: 1
+parent: Packing & Travel
+---
+
 ## 🧳 Packing List
 
 Essentials:

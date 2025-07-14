@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Accommodation/index.md",
+                "file": "docs/Docs & Visas/Visa Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Visa Guide"
             }
           }
         ]
@@ -181,14 +181,17 @@
   },
   "active": "1f31c3fecfed20e4",
   "lastOpenFiles": [
-    "docs/Accommodation/🗽 New York Stays.md",
+    "docs/Matchday Tools/Match Checklist.md",
+    "docs/Packing & Travel/Packing List.md",
+    "docs/Docs & Visas/Visa Guide.md",
+    "docs/Packing & Travel/index.md",
+    "docs/Matchday Tools/index.md",
+    "docs/Docs & Visas/index.md",
     "docs/Accommodation/index.md",
+    "docs/index.md",
+    "docs/Accommodation/🗽 New York Stays.md",
     "docs/Accommodation/🦩 Miami Stays.md",
     "docs/Accommodation/🍿 LA Stays.md",
-    "docs/Docs & Visas/Visa Guide.md",
-    "docs/Packing & Travel/Packing List.md",
-    "docs/Matchday Tools/Match Checklist.md",
-    "docs/index.md",
     "Packing & Travel/Packing List.md",
     "docs/Packing & Travel",
     "docs/Matchday Tools",
