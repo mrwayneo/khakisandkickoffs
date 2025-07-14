@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Packing & Travel/Packing List.md",
+                "file": "Accommodation/🗽 New York Stays.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Packing List"
+              "title": "🗽 New York Stays"
             }
           }
         ]
@@ -181,9 +181,13 @@
   },
   "active": "1f31c3fecfed20e4",
   "lastOpenFiles": [
-    "README.md",
-    "Packing & Travel/Packing List.md",
+    "Accommodation/🍿 LA Stays.md",
+    "Accommodation/Tips & Booking.md",
+    "Accommodation/🦩 Miami Stays.md",
+    "Accommodation/🗽 New York Stays.md",
+    "Docs & Visas/Visa Guide.md",
     "Matchday Tools/Match Checklist.md",
-    "Accommodation/Tips & Booking.md"
+    "Packing & Travel/Packing List.md",
+    "README.md"
   ]
 }
