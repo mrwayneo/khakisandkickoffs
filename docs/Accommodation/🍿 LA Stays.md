@@ -1,11 +1,8 @@
 ---
-
 title: Los Angeles
-
 nav_order: 1
-
-parent: City Guides
-
+parent: Accomodation
+layout: default
 ---
 ### **📍 Best Areas to Stay**
 

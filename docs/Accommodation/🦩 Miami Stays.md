@@ -1,11 +1,8 @@
 ---
-
 title: Miami
-
 nav_order: 2
-
-parent: City Guides
-
+parent: Accomodation
+layout: default
 ---
 Recommended areas to stay:
 

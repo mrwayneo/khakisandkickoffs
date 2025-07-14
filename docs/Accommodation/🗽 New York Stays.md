@@ -1,7 +1,8 @@
 ---
 title: New York
 nav_order: 3
-parent: City Guides
+parent: Accomodation
+layout: default
 ---
 Recommended areas to stay:
 
