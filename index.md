@@ -3,7 +3,7 @@ title: Home
 nav_order: 1
 ---
 
-# 🇦🇺 Khakis & Kick-Offs
+# 🇦🇺 Khakis & Kick-Offs 
 
 Welcome to the ultimate Aussie fan’s toolkit for FIFA World Cup 2026.
 
