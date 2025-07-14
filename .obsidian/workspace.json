@@ -11,14 +11,10 @@
             "id": "1f31c3fecfed20e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Packing & Travel/Packing List.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Packing List"
+              "title": "New tab"
             }
           }
         ]
@@ -181,6 +177,18 @@
   },
   "active": "1f31c3fecfed20e4",
   "lastOpenFiles": [
+    "Packing & Travel/Packing List.md",
+    "docs/Packing & Travel/Packing List.md",
+    "docs/Packing & Travel",
+    "docs/Matchday Tools/Match Checklist.md",
+    "docs/Matchday Tools",
+    "docs/Docs & Visas/Visa Guide.md",
+    "docs/Docs & Visas",
+    "docs/Accommodation/🦩 Miami Stays.md",
+    "docs/Accommodation/🗽 New York Stays.md",
+    "docs/Accommodation/🍿 LA Stays.md",
+    "docs/Accommodation/Tips & Booking.md",
+    "docs/Accommodation",
     "docs/LICENSE",
     "docs/_config.yml",
     "docs/index.md",
@@ -193,12 +201,10 @@
     "index.md",
     "Matchday Tools/Match Checklist.md",
     "Accommodation/🗽 New York Stays.md",
-    "_config.yml",
     "Accommodation/🍿 LA Stays.md",
     "Accommodation/Tips & Booking.md",
     "Accommodation/🦩 Miami Stays.md",
     "Docs & Visas/Visa Guide.md",
-    "Packing & Travel/Packing List.md",
     "README.md"
   ]
 }

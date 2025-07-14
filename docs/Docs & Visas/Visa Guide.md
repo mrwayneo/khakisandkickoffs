@@ -1,3 +1,9 @@
+---
+title: Visa Guide
+nav_order: 4
+parent: Docs & Visas
+---
+
 ## 🛂 Visa & Entry Requirements
 
 - Apply for ESTA (for Australians): [https://esta.cbp.dhs.gov/](https://esta.cbp.dhs.gov/)
