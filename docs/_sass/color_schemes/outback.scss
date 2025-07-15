@@ -1,9 +1,19 @@
 
-// Override colors for Wayne-O style
-$link-color: #3A6B35;          // Bush green links
-$nav-background-color: #D8CFAA;
-$nav-text-color: #002244;
-$nav-hover-color:  #FFB81C;
+// Wayne-O Theme Overrides — “Outback Global”
+$body-background-color: #F9F9F4 !default;     // soft beige/sand
+$body-heading-color: #002244 !default;        // navy headings
+$body-text-color: #2C2C2C !default;           // charcoal
 
-$btn-primary-color: #FFB81C;
-$btn-text-color:    #002244;
+$link-color: #3A6B35 !default;                // bush green links
+$nav-child-link-color: #002244 !default;
+
+$sidebar-color: #D8CFAA !default;             // khaki sidebar
+$base-button-color: #FFF7DC !default;
+$btn-primary-color: #FFB81C !default;         // gold primary buttons
+$code-background-color: #F4F2E9 !default;
+
+$feedback-color: darken(#D8CFAA, 3%) !default;
+
+$table-background-color: #FFFFFF !default;
+$search-background-color: #FFFFFF !default;
+$search-result-preview-color: #2C2C2C !default;
