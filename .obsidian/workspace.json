@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Accommodation/🦩 Miami Stays.md",
+                "file": "docs/Host Cities/🥊 Philadelphia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🦩 Miami Stays"
+              "title": "🥊 Philadelphia"
             }
           }
         ]
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,38 +182,41 @@
   },
   "active": "1f31c3fecfed20e4",
   "lastOpenFiles": [
-    "docs/Accommodation/🗽 New York Stays.md",
-    "docs/Accommodation/🍿 LA Stays.md",
-    "docs/Accommodation/🦩 Miami Stays.md",
+    "docs/Host Cities/🗽 New York.md",
+    "docs/Host Cities/🎡 San Francisco Bay Area.md",
+    "docs/Host Cities/🏩 Dallas.md",
+    "docs/Host Cities/🏀 Boston.md",
+    "docs/Host Cities/🚀 Houston.md",
+    "docs/Host Cities/🦩 Miami.md",
+    "docs/Host Cities/🍿 Los Angeles.md",
+    "docs/Host Cities/🇲🇽 Monterrey.md",
+    "docs/Host Cities/🇲🇽 Mexico City.md",
+    "docs/Host Cities/🇲🇽 Guadalajara.md",
+    "docs/Host Cities/🇨🇦 Vancouver.md",
+    "docs/Host Cities/🇨🇦 Toronto.md",
+    "docs/Host Cities/🌧️ Seattle.md",
+    "docs/Host Cities/🥊 Philadelphia.md",
+    "docs/Host Cities/🌾 Kansas City.md",
+    "docs/Host Cities/City Template.md",
+    "docs/Host Cities/🍗 Atlanta.md",
     "docs/Docs & Visas/Visa Guide.md",
-    "docs/Matchday Tools/Match Checklist.md",
-    "docs/Packing & Travel/Packing List.md",
-    "docs/Packing & Travel/index.md",
-    "docs/Matchday Tools/index.md",
     "docs/Docs & Visas/index.md",
-    "docs/Accommodation/index.md",
+    "Wayne-O Toolkit Workflow Reference.md",
+    "docs/Extras",
+    "docs/Social Media",
+    "docs/Youtube",
+    "docs/Threads",
+    "docs/Matchday",
+    "docs/Stadiums",
+    "docs/Planning",
+    "docs/Host Cities",
+    "docs/Planning/Packing List.md",
+    "docs/Matchday/Match Checklist.md",
+    "docs/Planning/index.md",
+    "docs/Matchday/index.md",
+    "docs/Host Cities/index.md",
     "docs/index.md",
-    "Packing & Travel/Packing List.md",
-    "docs/Packing & Travel",
-    "docs/Matchday Tools",
-    "docs/Docs & Visas",
-    "docs/Accommodation/Tips & Booking.md",
-    "docs/Accommodation",
-    "docs/LICENSE",
-    "docs/_config.yml",
-    "docs/README.md",
-    "docs/Gemfile.lock",
-    "docs/Gemfile",
-    "docs/Visa Guide.md",
-    "docs",
-    "_docs",
-    "index.md",
-    "Matchday Tools/Match Checklist.md",
-    "Accommodation/🗽 New York Stays.md",
-    "Accommodation/🍿 LA Stays.md",
-    "Accommodation/Tips & Booking.md",
-    "Accommodation/🦩 Miami Stays.md",
-    "Docs & Visas/Visa Guide.md",
-    "README.md"
+    "docs/Planning",
+    "docs/Matchday"
   ]
 }

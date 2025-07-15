@@ -5,7 +5,8 @@ parent: Packing & Travel
 layout: default
 ---
 
-## 🧳 Packing List
+# 🧳 Packing List 
+{}
 
 Essentials:
 - Passport & visa docs
