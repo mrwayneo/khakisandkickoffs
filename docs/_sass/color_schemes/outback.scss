@@ -1,0 +1,10 @@
+@import "./light.scss"; // Base off the default light theme
+
+// Override colors for Wayne-O style
+$link-color: #3A6B35;          // Bush green links
+$nav-background-color: #D8CFAA;
+$nav-text-color: #002244;
+$nav-hover-color:  #FFB81C;
+
+$btn-primary-color: #FFB81C;
+$btn-text-color:    #002244;

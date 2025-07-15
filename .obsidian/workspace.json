@@ -182,6 +182,10 @@
   },
   "active": "1f31c3fecfed20e4",
   "lastOpenFiles": [
+    "docs/_sass/color_schemes/outback.scss",
+    "docs/_sass/color_schemes",
+    "docs/_sass/custom.scss",
+    "docs/_sass",
     "docs/Planning/🧳 Gear.md",
     "Wayne-O Toolkit Workflow Reference.md",
     "docs/Planning/🎫 Travel Documents.md",
@@ -207,16 +211,12 @@
     "docs/Host Cities/🚀 Houston.md",
     "docs/Host Cities/🦩 Miami.md",
     "docs/Host Cities/🍿 Los Angeles.md",
-    "docs/Host Cities/🇲🇽 Monterrey.md",
     "docs/Extras",
     "docs/Social Media",
     "docs/Youtube",
     "docs/Threads",
     "docs/Matchday",
     "docs/Stadiums",
-    "docs/Planning",
-    "docs/Host Cities",
-    "docs/Planning",
-    "docs/Matchday"
+    "docs/Planning"
   ]
 }
