@@ -1,7 +1,7 @@
 ---
 title: Match Checklist
 nav_order: 1
-parent: Matchday Tools
+parent: Matchday
 layout: default
 ---
 

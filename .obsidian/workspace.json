@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Youtube/index.md",
+                "file": "Wayne-O Toolkit Workflow Reference.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Wayne-O Toolkit Workflow Reference"
             }
           }
         ]
@@ -182,8 +182,17 @@
   },
   "active": "1f31c3fecfed20e4",
   "lastOpenFiles": [
-    "docs/Threads/index.md",
+    "docs/Planning/🧳 Gear.md",
+    "Wayne-O Toolkit Workflow Reference.md",
+    "docs/Planning/🎫 Travel Documents.md",
+    "docs/Planning/🎟️ Tickets.md",
+    "docs/Planning/🏨 Accomodation.md",
+    "docs/Planning/📝 Itinerary.md",
+    "docs/Planning/✈️ Flights.md",
+    "docs/Planning/FWC26 Master Plan.md",
+    "docs/Matchday/Match Checklist.md",
     "docs/Youtube/index.md",
+    "docs/Threads/index.md",
     "docs/Stadiums/index.md",
     "docs/Social Media/index.md",
     "docs/Planning/index.md",
@@ -199,15 +208,6 @@
     "docs/Host Cities/🦩 Miami.md",
     "docs/Host Cities/🍿 Los Angeles.md",
     "docs/Host Cities/🇲🇽 Monterrey.md",
-    "docs/Host Cities/🇲🇽 Mexico City.md",
-    "docs/Host Cities/🇲🇽 Guadalajara.md",
-    "docs/Host Cities/🇨🇦 Vancouver.md",
-    "docs/Host Cities/🇨🇦 Toronto.md",
-    "docs/Host Cities/🌧️ Seattle.md",
-    "docs/Host Cities/🌾 Kansas City.md",
-    "docs/Host Cities/City Template.md",
-    "docs/Host Cities/🍗 Atlanta.md",
-    "docs/Docs & Visas/Visa Guide.md",
     "docs/Extras",
     "docs/Social Media",
     "docs/Youtube",
