@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Matchday/Flags & Chants.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flags & Chants"
+              "title": "index"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "1f31c3fecfed20e4",
   "lastOpenFiles": [
-    "Wayne-O Toolkit Workflow Reference.md",
     "docs/Matchday/Flags & Chants.md",
+    "Wayne-O Toolkit Workflow Reference.md",
     "docs/Matchday/Fan Experiences.md",
     "docs/Matchday/Safety.md",
     "docs/Matchday/Checklist.md",
