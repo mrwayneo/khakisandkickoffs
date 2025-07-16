@@ -13,11 +13,10 @@ Wayne-O’s got your back from Sydney to Seattle.
 
 🔗 Jump straight to:
 
-- [📅 Itinerary Planner](Planning/Itinerary)
-- [🏟️ Stadium Guides](stadiums)
-- [🌎 City Guides](cities)
-- [🎒 Packing Tips](packing)
-- [💡 Fan Submissions](fan-tips)
+- [📅 Itinerary Planner](https://mrwayneo.github.io/khakis-toolkit/Planning/%F0%9F%93%9D%20Itinerary.html)
+- [🏟️ Stadium Guides](https://mrwayneo.github.io/khakis-toolkit/Stadiums/)
+- [🌎 City Guides](https://mrwayneo.github.io/khakis-toolkit/Host%20Cities/)
+
 
 ---
 
