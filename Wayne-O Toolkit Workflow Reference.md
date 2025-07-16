@@ -263,3 +263,52 @@ parent: City Guides
 ---
 
 **You’re now running a fully portable, scalable, fan-first travel toolkit the Elon Musk way — with Aussie charm.** 🦘⚽
+
+# 🌏 Khakis & Kick-Offs – Link Hub
+
+Your ultimate Aussie fan toolkit for the 2026 FIFA World Cup.
+
+---
+
+## 🎒 Main Toolkit
+
+- [🌏 Fan Toolkit Homepage](https://bit.ly/fantoolkit2026)  
+  The full planning guide with schedules, packing tips, and more.
+
+- [📅 2026 Match Schedule](/docs/planning/schedule)  
+  Key dates across the US, Canada & Mexico.
+
+- [🏟️ Stadium & City Guides](/docs/guides/locations)  
+  Local tips, transport, and stadium vibes.
+
+- [🛂 Visa & Travel Checklist](/docs/planning/visas)  
+  Entry requirements for Aussies & international fans.
+
+- [🛏️ Accommodation Booking Tips](/docs/planning/stays)  
+  From hotels to hostels, road trips and Airbnb hacks.
+
+- [📦 What We Packed (Wayne-O Style)](/docs/planning/packing)  
+  Cheeky and practical — what’s in our bags.
+
+---
+
+## 📣 Social Links
+
+- [🎥 Watch Our Journey on YouTube](https://youtube.com/@khakisandkickoffs)  
+  Shorts, guides, and Wayne-O antics.
+
+- [📸 Follow on Instagram](https://instagram.com/khakisandkickoffs)
+
+- [🧢 About Wayne-O](/docs/about/wayne-o)  
+  Meet the khaki-wearing legend behind the trip.
+
+---
+
+## 🎨 Theme & Styling
+
+- **Primary Color**: `#FFB81C` (Socceroo Gold)
+- **Accent / Text**: `#002244` (Navy)
+- **Background**: `#F9F9F4` (Sand)
+- **Font**: Poppins / Outfit / Rubik
+
+> Used for: Linktree, Carrd, and Just the Docs color scheme
