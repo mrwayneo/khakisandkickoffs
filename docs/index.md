@@ -13,7 +13,7 @@ Wayne-O’s got your back from Sydney to Seattle.
 
 🔗 Jump straight to:
 
-- [📅 Itinerary Planner](itinerary)
+- [📅 Itinerary Planner](docs/Planning/Itinerary)
 - [🏟️ Stadium Guides](stadiums)
 - [🌎 City Guides](cities)
 - [🎒 Packing Tips](packing)

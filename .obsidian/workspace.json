@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5e6671d4a9299b9f",
+        "id": "fc4c524a56c6cf5a",
         "type": "tabs",
         "children": [
           {
-            "id": "1f31c3fecfed20e4",
+            "id": "2923866652b7a23d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,8 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f31c3fecfed20e4",
+  "active": "2923866652b7a23d",
   "lastOpenFiles": [
+    "itinerary.md",
+    "docs/index.md",
     "docs/Matchday/Flags & Chants.md",
     "Wayne-O Toolkit Workflow Reference.md",
     "docs/Matchday/Fan Experiences.md",
@@ -204,14 +206,12 @@
     "docs/Stadiums/Stadium Template.md",
     "docs/Stadiums/Toronto Stadium.md",
     "docs/Stadiums/Los Angeles Stadium.md",
-    "docs/index.md",
     "docs/README.md",
     "docs/_sass/color_schemes/outback.scss",
     "docs/_sass/color_schemes",
     "docs/_sass/custom.scss",
     "docs/_sass",
     "docs/Planning/🧳 Gear.md",
-    "docs/Planning/🎫 Travel Documents.md",
     "docs/Extras",
     "docs/Social Media",
     "docs/Youtube",
