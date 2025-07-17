@@ -39,15 +39,15 @@ A minimalist, expandable itinerary to guide your World Cup 2026 journey — matc
 
 ## **🛫 Flights + Transit**
 
-|**Date**|**From → To**|**Mode**|**Est. Time**|**Notes**|
-|---|---|---|---|---|
-|14 Jun|Sydney → NYC|International Flight|~20 hrs|Arrives same-day, NY time|
-|17 Jun|NYC → ???|TBD|?|Post-NYC travel TBD|
-|21 Jun|??? → Miami|Flight|?|Accom booked|
-|TBD|Miami → Houston/Dallas|Road or Flight|?|Matches 76 / 78|
-|TBD|Dallas → Vegas → LA|Flight or drive|?|Accom booked Vegas|
-|6–7 Jul|LA → Hawaii|Flight|?|Quarterfinal rest stop|
-|Mid-Jul|Hawaii → Sydney|Flight|?|Final at home|
+| **Date** | **From → To**          | **Mode**             | **Est. Time** | **Notes**                 |
+| -------- | ---------------------- | -------------------- | ------------- | ------------------------- |
+| 14 Jun   | Sydney → NYC           | International Flight | ~20 hrs       | Arrives same-day, NY time |
+| 17 Jun   | NYC → ???              | TBD                  | ?             | Post-NYC travel TBD       |
+| 21 Jun   | ??? → Miami            | Flight               | ?             | Accom booked              |
+| TBD      | Miami → Houston/Dallas | Road or Flight       | ?             | Matches 76 / 78           |
+| TBD      | Dallas → Vegas → LA    | Flight or drive      | ?             | Accom booked Vegas        |
+| 6–7 Jul  | LA → Hawaii            | Flight               | ?             | Quarterfinal rest stop    |
+| Mid-Jul  | Hawaii → Sydney        | Flight               | ?             | Final at home             |
 
 ---
 
