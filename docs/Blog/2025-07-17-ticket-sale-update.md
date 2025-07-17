@@ -2,6 +2,7 @@
 title: 🚨 New Ticket Sales Phase Opens – What You Need to Know
 parent: Blog & Updates
 nav_order: 1
+layout: default
 ---
 # 🎟️ The Ticket Drop Heard 'Round the World  
 ## 🗓️ World Cup 2026 Tickets Go On Sale – September 2025  
