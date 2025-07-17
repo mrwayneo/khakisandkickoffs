@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Blog/2025-07-17-ticket-sale-update.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-17-ticket-sale-update"
+              "title": "index"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "2923866652b7a23d",
   "lastOpenFiles": [
-    "docs/Blog/index.md",
     "docs/Blog/2025-07-17-ticket-sale-update.md",
+    "docs/Blog/index.md",
     "docs/Planning/🎟️ Tickets.md",
     "docs/Blog",
     "Wayne-O Toolkit Workflow Reference.md",

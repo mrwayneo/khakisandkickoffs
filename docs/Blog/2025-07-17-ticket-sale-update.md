@@ -7,6 +7,8 @@ layout: default
 # 🎟️ The Ticket Drop Heard 'Round the World  
 ## 🗓️ World Cup 2026 Tickets Go On Sale – September 2025  
 
+**Date:** July 17, 2025
+
 >Duuude… it’s official. The _World Cup 2026 ticket floodgates_ are opening in **September 2025**. That’s your cue to get ready — because when the greatest show on Earth lands in **USA, Canada & Mexico**, it’s not just about showing up. It’s about locking it in early.
 
 FIFA just dropped the word:
