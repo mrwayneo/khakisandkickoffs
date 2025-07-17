@@ -7,9 +7,15 @@ parent: Planning
 
 # **🎟️ Tickets**
 
-  
-
 A central guide for tracking ticket priorities, ballot entries, confirmations, resale strategy, and budget per match — so we can follow the ball, not the chaos.
+
+## 📌 What We Know So Far
+
+- 🗓 **Ticket Sales Start:** *September 2025*
+- 🎟 **Ticket Types:** Individual match tickets and team-specific ticket series
+- 💸 **Prices + Categories:** Not released yet – stay tuned
+- ✅ **How to Get Notified:**  
+  👉 [Create a FIFA Ticketing Account](https://www.fifa.com/tickets) to receive updates
 
 ---
 

@@ -312,3 +312,71 @@ Your ultimate Aussie fan toolkit for the 2026 FIFA World Cup.
 - **Font**: Poppins / Outfit / Rubik
 
 > Used for: Linktree, Carrd, and Just the Docs color scheme
+
+
+# 🎨 KAKO Brand Style Guide
+
+Welcome to the official **Khakis and Kick-Offs (KAKO)** style board — your one-stop reference for maintaining visual and tonal consistency across our GitHub Pages, YouTube Shorts, and social threads. Wayne-O approved 🦘
+
+---
+
+## 🟫 Primary Colour Palette
+
+| Colour | Preview | HEX | Usage |
+|--------|---------|-----|-------|
+| Outback Khaki | ![#A1946A](https://placehold.co/25x25/A1946A/A1946A.png) | `#A1946A` | Main brand tone (Wayne-O shirt, headers, cards) |
+| Deep Navy | ![#1D2B3A](https://placehold.co/25x25/1D2B3A/1D2B3A.png) | `#1D2B3A` | Header text, hero backgrounds, Wayne-O hat |
+| Sandy Beige | ![#E8D8B3](https://placehold.co/25x25/E8D8B3/E8D8B3.png) | `#E8D8B3` | Backgrounds, info blocks, light overlays |
+| Football Green | ![#4C7C59](https://placehold.co/25x25/4C7C59/4C7C59.png) | `#4C7C59` | Highlight boxes, chalkboard elements |
+| Crowd Gold | ![#F6B042](https://placehold.co/25x25/F6B042/F6B042.png) | `#F6B042` | Energy pops, goal flashes, key links |
+
+---
+
+## ⚫️ Secondary & Accent Colours
+
+| Colour | Preview | HEX | Usage |
+|--------|---------|-----|-------|
+| Charcoal Smoke | ![#3B3B3B](https://placehold.co/25x25/3B3B3B/3B3B3B.png) | `#3B3B3B` | Body text, outlines, footnotes |
+| Pitch Black | ![#121212](https://placehold.co/25x25/121212/121212.png) | `#121212` | Night scenes, outlines, shadow depth |
+| Sunset Red | ![#D74E09](https://placehold.co/25x25/D74E09/D74E09.png) | `#D74E09` | Callouts, warning panels, stadium heat |
+| Sky Fade | ![#8DA9C4](https://placehold.co/25x25/8DA9C4/8DA9C4.png) | `#8DA9C4` | Gradient transitions, overlays |
+| Ocean Blue | ![#2D6C9F](https://placehold.co/25x25/2D6C9F/2D6C9F.png) | `#2D6C9F` | Water, surf vibes, calm scenes |
+
+---
+
+## 🧱 Typography
+
+| Element | Font Suggestion | Colour |
+|---------|-----------------|--------|
+| Headings | `Montserrat Bold` or `League Spartan` | `#1D2B3A` |
+| Subheadings | `Montserrat SemiBold` | `#4C7C59` |
+| Body Text | `Open Sans` or `Lato` | `#3B3B3B` |
+| Captions & Notes | `Courier New` or `Bangers` | `#F6B042` |
+
+_Note: GitHub Pages uses system fonts — define these via your custom CSS or embed Google Fonts if styling externally._
+
+---
+
+## 🌄 Background Gradients
+
+| Name | From → To | Usage |
+|------|-----------|-------|
+| Dusk Kick-Off | `#A1946A` → `#1D2B3A` | Hero banners, footer fades |
+| Chalkboard Pop | `#4C7C59` → `#E8D8B3` | Explainers, code sections |
+| Khaki Heat | `#A1946A` → `#F6B042` | Goal alerts, top banners |
+| Wayne-O’s World | `#E8D8B3` → `#8DA9C4` | Blog posts, light backgrounds |
+
+---
+
+## 🧰 KAKO in Action
+
+| Tool | Example Use |
+|------|-------------|
+| **GitHub Pages** | Khaki and navy styling in headers; chalkboard green in code blocks; gold alert banners |
+| **YouTube Shorts** | Wayne-O khaki + navy outfit, chalkboard overlays, goal flashes in gold/red |
+| **Canva** | Templates with Dusk Kick-Off gradient, consistent Wayne-O brand palette |
+| **X Threads** | Emojis + gold text overlays, khaki image cards, crowd-red reactions |
+
+---
+
+## 🎯 Copy This Colour Palette
