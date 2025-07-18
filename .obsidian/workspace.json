@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Youtube/🫥 FWC26 Ep 2 Plan.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🫥 FWC26 Ep 2 Plan"
+              "title": "index"
             }
           }
         ]
@@ -182,15 +182,19 @@
   },
   "active": "2923866652b7a23d",
   "lastOpenFiles": [
-    "docs/Planning/📝 Itinerary.md",
+    "docs/Social Media/index.md",
+    "docs/Extras/index.md",
+    "docs/Threads/index.md",
+    "docs/Youtube/index.md",
+    "docs/index.md",
     "docs/Youtube/🫥 FWC26 Ep 2 Plan.md",
     "docs/Planning/✈️ Flights.md",
+    "docs/Planning/📝 Itinerary.md",
     "docs/Planning/🏨 Accomodation.md",
     "Wayne-O Toolkit Workflow Reference.md",
     "8CB4A9DB-F09F-4495-A287-5C8789121262_1_105_c.jpeg",
     "docs/Planning/🎟️ Tickets.md",
     "docs/Blog/2025-07-17-ticket-sale-update.md",
-    "docs/index.md",
     "docs/Blog/index.md",
     "docs/Blog",
     "docs/Matchday/Flags & Chants.md",
@@ -206,10 +210,6 @@
     "docs/Stadiums/Dallas Stadium.md",
     "docs/Stadiums/Houston Stadium.md",
     "docs/Stadiums/Philadelphia Stadium.md",
-    "docs/Stadiums/San Francisco Bay Area Stadium.md",
-    "docs/Stadiums/New York New Jersey Stadium.md",
-    "docs/Stadiums/BC Place Vancouver.md",
-    "docs/Stadiums/Boston Stadium.md",
     "docs/_sass/color_schemes/outback.scss",
     "docs/_sass/color_schemes",
     "docs/_sass/custom.scss",
