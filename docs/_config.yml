@@ -10,3 +10,5 @@ aux_links:
 
 just_the_docs:
   nav_exclude: true
+  logo:
+    link: https://khakisandkickoffs.carrd.co  # <-- overrides site title link
