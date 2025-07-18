@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Planning/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -182,11 +182,15 @@
   },
   "active": "2923866652b7a23d",
   "lastOpenFiles": [
+    "docs/Stadiums/index.md",
+    "docs/Host Cities/index.md",
+    "docs/Blog/index.md",
+    "docs/Planning/index.md",
+    "docs/index.md",
     "docs/Social Media/index.md",
     "docs/Extras/index.md",
     "docs/Threads/index.md",
     "docs/Youtube/index.md",
-    "docs/index.md",
     "docs/Youtube/🫥 FWC26 Ep 2 Plan.md",
     "docs/Planning/✈️ Flights.md",
     "docs/Planning/📝 Itinerary.md",
@@ -195,7 +199,6 @@
     "8CB4A9DB-F09F-4495-A287-5C8789121262_1_105_c.jpeg",
     "docs/Planning/🎟️ Tickets.md",
     "docs/Blog/2025-07-17-ticket-sale-update.md",
-    "docs/Blog/index.md",
     "docs/Blog",
     "docs/Matchday/Flags & Chants.md",
     "itinerary.md",
@@ -207,9 +210,6 @@
     "docs/Stadiums/Atlanta Stadium.md",
     "docs/Stadiums/Miami Stadium.md",
     "docs/Stadiums/Estadio BBVA Monterrey.md",
-    "docs/Stadiums/Dallas Stadium.md",
-    "docs/Stadiums/Houston Stadium.md",
-    "docs/Stadiums/Philadelphia Stadium.md",
     "docs/_sass/color_schemes/outback.scss",
     "docs/_sass/color_schemes",
     "docs/_sass/custom.scss",
