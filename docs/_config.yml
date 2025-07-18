@@ -12,3 +12,12 @@ just_the_docs:
   nav_exclude: true
   logo:
     link: https://khakisandkickoffs.carrd.co  # <-- overrides site title link
+  footer_content: |
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+        const siteTitle = document.querySelector('.site-title a');
+        if (siteTitle) {
+          siteTitle.href = "https://khakisandkickoffs.carrd.co";
+        }
+      });
+    </script>
