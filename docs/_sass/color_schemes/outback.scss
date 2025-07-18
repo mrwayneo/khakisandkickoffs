@@ -17,14 +17,3 @@ $feedback-color: darken(#D8CFAA, 3%);
 $table-background-color: #FFFFFF;
 $search-background-color: #FFFFFF;
 $search-result-preview-color: #2C2C2C;
-
-body::before {
-  content: "";
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: rgba(0, 0, 0, 0.6); // 60% black transparency
-  z-index: -1;
-}
