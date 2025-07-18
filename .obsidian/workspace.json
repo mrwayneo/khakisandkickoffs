@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Host Cities/🇲🇽 Monterrey.md",
+                "file": "docs/Planning/✈️ Flights.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🇲🇽 Monterrey"
+              "title": "✈️ Flights"
             }
           }
         ]
@@ -182,9 +182,10 @@
   },
   "active": "2923866652b7a23d",
   "lastOpenFiles": [
+    "docs/index.md",
+    "docs/Host Cities/🇲🇽 Monterrey.md",
     "docs/Host Cities/🇲🇽 Mexico City.md",
     "docs/Stadiums/Atlanta Stadium.md",
-    "docs/index.md",
     "docs/Youtube/index.md",
     "docs/Stadiums/index.md",
     "docs/Threads/index.md",
@@ -209,7 +210,6 @@
     "docs/Matchday/Fan Experiences.md",
     "docs/Matchday/Safety.md",
     "docs/Matchday/Checklist.md",
-    "docs/Stadiums/Kansas City Stadium.md",
     "docs/_sass/color_schemes/outback.scss",
     "docs/_sass/color_schemes",
     "docs/_sass/custom.scss",

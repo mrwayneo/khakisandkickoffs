@@ -3,6 +3,7 @@ title: Flights
 nav_order: 3
 layout: default
 parent: Planning
+permalink: /flights/
 ---
 # **✈️ Flights**
 

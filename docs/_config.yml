@@ -7,3 +7,6 @@ url: https://khakisandkickoffs.carrd.co
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+just_the_docs:
+  nav_exclude: true
