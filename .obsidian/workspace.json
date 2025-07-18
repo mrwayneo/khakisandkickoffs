@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Host Cities/🇲🇽 Monterrey.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "🇲🇽 Monterrey"
             }
           }
         ]
@@ -157,8 +157,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -182,6 +182,9 @@
   },
   "active": "2923866652b7a23d",
   "lastOpenFiles": [
+    "docs/Host Cities/🇲🇽 Mexico City.md",
+    "docs/Stadiums/Atlanta Stadium.md",
+    "docs/index.md",
     "docs/Youtube/index.md",
     "docs/Stadiums/index.md",
     "docs/Threads/index.md",
@@ -193,7 +196,6 @@
     "docs/Extras/index.md",
     "docs/Blog/index.md",
     "docs/Blog/2025-07-17-ticket-sale-update.md",
-    "docs/index.md",
     "docs/Youtube/🫥 FWC26 Ep 2 Plan.md",
     "docs/Planning/✈️ Flights.md",
     "docs/Planning/📝 Itinerary.md",
@@ -208,8 +210,6 @@
     "docs/Matchday/Safety.md",
     "docs/Matchday/Checklist.md",
     "docs/Stadiums/Kansas City Stadium.md",
-    "docs/Stadiums/Seattle Stadium.md",
-    "docs/Stadiums/Atlanta Stadium.md",
     "docs/_sass/color_schemes/outback.scss",
     "docs/_sass/color_schemes",
     "docs/_sass/custom.scss",

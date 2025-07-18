@@ -3,6 +3,7 @@ title: Mexico City Fan Guide
 nav_order: 2
 parent: Host Cities
 layout: default
+permalink: /mexico-city/
 ---
 
 # 🇲🇽 Mexico City Fan Guide
