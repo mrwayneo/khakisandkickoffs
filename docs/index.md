@@ -2,7 +2,6 @@
 title: Home
 nav_order: 1
 layout: default
-nav_enabled: "false"
 ---
 # Khakis & Kick-Offs 🇦🇺⚽✈️  
 **The Aussie fan’s World Cup 2026 travel toolkit.**
