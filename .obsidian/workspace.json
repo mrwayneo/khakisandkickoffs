@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Planning/✈️ Flights.md",
+                "file": "docs/Extras/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "✈️ Flights"
+              "title": "index"
             }
           }
         ]
@@ -182,25 +182,25 @@
   },
   "active": "2923866652b7a23d",
   "lastOpenFiles": [
-    "docs/_sass/color_schemes/kako.scss",
+    "docs/Social Media/index.md",
+    "docs/Threads/index.md",
+    "docs/Youtube/index.md",
     "docs/index.md",
+    "docs/Host Cities/index.md",
+    "docs/Stadiums/index.md",
+    "docs/Planning/📝 Itinerary.md",
+    "docs/Planning/✈️ Flights.md",
+    "docs/_sass/color_schemes/kako.scss",
     "docs/Host Cities/🇲🇽 Monterrey.md",
     "docs/Host Cities/🇲🇽 Mexico City.md",
     "docs/Stadiums/Atlanta Stadium.md",
-    "docs/Youtube/index.md",
-    "docs/Stadiums/index.md",
-    "docs/Threads/index.md",
-    "docs/Social Media/index.md",
     "docs/Matchday/index.md",
     "docs/Planning/index.md",
     "docs/Host Cities/🇨🇦 Toronto.md",
-    "docs/Host Cities/index.md",
     "docs/Extras/index.md",
     "docs/Blog/index.md",
     "docs/Blog/2025-07-17-ticket-sale-update.md",
     "docs/Youtube/🫥 FWC26 Ep 2 Plan.md",
-    "docs/Planning/✈️ Flights.md",
-    "docs/Planning/📝 Itinerary.md",
     "docs/Planning/🏨 Accomodation.md",
     "Wayne-O Toolkit Workflow Reference.md",
     "8CB4A9DB-F09F-4495-A287-5C8789121262_1_105_c.jpeg",
@@ -217,7 +217,6 @@
     "docs/Extras",
     "docs/Social Media",
     "docs/Youtube",
-    "docs/Threads",
-    "docs/Matchday"
+    "docs/Threads"
   ]
 }

@@ -3,6 +3,7 @@ title: FWC26 Itinerary (Draft)
 nav_order: 1
 layout: default
 parent: Planning
+permalink: /itinerary/
 ---
 
 # **🇺🇸 FWC26 Itinerary (Draft)**

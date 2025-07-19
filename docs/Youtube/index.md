@@ -2,6 +2,6 @@
 title: Youtube
 nav_order: 9
 layout: default
-nav_exclude: "true"
+nav_enabled: "false"
 permalink: /youtube/
 ---
