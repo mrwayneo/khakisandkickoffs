@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Extras/index.md",
+                "file": "docs/_includes/components/header.html.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "header.html"
             }
           }
         ]
@@ -182,10 +182,13 @@
   },
   "active": "2923866652b7a23d",
   "lastOpenFiles": [
+    "docs/Extras/index.md",
+    "docs/_includes/components/header.html.md",
+    "docs/_includes/components",
+    "docs/_includes",
     "docs/Youtube/index.md",
     "docs/Social Media/index.md",
     "docs/Threads/index.md",
-    "docs/Extras/index.md",
     "docs/index.md",
     "docs/Host Cities/index.md",
     "docs/Stadiums/index.md",
@@ -215,8 +218,6 @@
     "docs/_sass/custom.scss",
     "docs/_sass",
     "docs/Extras",
-    "docs/Social Media",
-    "docs/Youtube",
-    "docs/Threads"
+    "docs/Social Media"
   ]
 }
