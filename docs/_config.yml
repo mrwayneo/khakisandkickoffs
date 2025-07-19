@@ -4,20 +4,7 @@ theme: just-the-docs
 color_scheme: outback
 
 url: https://khakisandkickoffs.carrd.co
+baseurl: ""
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
-
-just_the_docs:
-  nav_exclude: true
-  logo:
-    link: https://khakisandkickoffs.carrd.co  # <-- overrides site title link
-  footer_content: |
-    <script>
-      document.addEventListener("DOMContentLoaded", function() {
-        const siteTitle = document.querySelector('.site-title a');
-        if (siteTitle) {
-          siteTitle.href = "https://khakisandkickoffs.carrd.co";
-        }
-      });
-    </script>
