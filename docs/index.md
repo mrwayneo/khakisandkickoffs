@@ -13,9 +13,9 @@ Wayne-O’s got your back from Sydney to Seattle.
 
 🔗 Jump straight to:
 
-- [📅 Itinerary Planner](https://mrwayneo.github.io/khakis-toolkit/planning/)
-- [🏟️ Stadium Guides](https://mrwayneo.github.io/khakis-toolkit/stadiums/)
-- [🌎 City Guides](https://mrwayneo.github.io/khakis-toolkit/host-cities/)
+- [📅 Itinerary Planner](https://mrwayneo.github.io/khakisandkickoffs/planning/)
+- [🏟️ Stadium Guides](https://mrwayneo.github.io/khakisandkickoffs/stadiums/)
+- [🌎 City Guides](https://mrwayneo.github.io/khakisandkickoffs/host-cities/)
 
 
 ---
