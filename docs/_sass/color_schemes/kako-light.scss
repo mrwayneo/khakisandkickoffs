@@ -19,8 +19,13 @@ $search-result-preview-color: #1a1a1a; // Strong contrast preview text
 // Disable features 
 
 .site-title:hover,
-.site-button:hover {
+.site-button:hover,
+.nav-list:hover,
+.nav-list-item:hover,
+.nav-list-link:hover {
   background-image: none;
   background-color: transparent;
   color: #A1946A; // Kako Outback Khaki
 }
+
+ 
