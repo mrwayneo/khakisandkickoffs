@@ -1,17 +1,20 @@
 // kako-light.scss
 
-$body-background-color: #fafafc;
-$body-text-color: #1d1d1f;
-$body-heading-color: #1d1d1f;
-$link-color: #1d1d1f;
-$sidebar-color: #fafafc;
-// $nav-child-link-color: #dcdcdc;
-// $btn-primary-color: #cab87a;
-// $base-button-color: #2c2c2c;
-$code-background-color: #1f1f1f;
-$table-background-color: #141414;
-$search-background-color: #141414;
-$search-result-preview-color: #cab87a;
+$body-background-color: #ffffff; // Clean white
+$body-heading-color: #111111;    // Bold near-black headings
+$body-text-color: #2b2b2b;       // Deep neutral grey for body
+$link-color: #1d2b3a;            // Deep Navy (Kako brand color)
+
+$nav-child-link-color: #2b2b2b;  // Match body text for consistency
+$sidebar-color: #f9f9f9;         // Light grey sidebar background
+$base-button-color: #f0f0f0;     // Soft Apple-like button grey
+$btn-primary-color: #1d2b3a;     // Deep Navy for buttons
+
+$code-background-color: #f6f6f6; // Soft grey for inline code
+$feedback-color: #ededed;        // Very light grey hover panels
+$table-background-color: #ffffff;
+$search-background-color: #ffffff;
+$search-result-preview-color: #1a1a1a; // Strong contrast preview text
 
 // Disable features 
 // $site-title:hover
