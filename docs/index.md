@@ -2,6 +2,7 @@
 title: World Cup Fixtures
 nav_exclude: false
 layout: default
+nav_order: 1
 ---
 # 🌎 K A K O World Cup 2026 Match Tracker
 
@@ -223,12 +224,12 @@ Welcome to your ultimate match-tracking HQ for FIFA World Cup 26 — the one and
 
 ### 🔥 Round of 32
 
-### ▶️ Sunday, 28 June 2026**
+### ▶️ Sunday, 28 June 2026
 
 - ⚽ Match 73 – Group A runners-up vs Group B runners-up – _Los Angeles Stadium_
     
 
-### ▶️ Monday, 29 June 2026**
+### ▶️ Monday, 29 June 2026
 
 - ⚽ Match 74 – Group E winners vs Group A/B/C/D/F third place – _Boston Stadium_
     
@@ -237,7 +238,7 @@ Welcome to your ultimate match-tracking HQ for FIFA World Cup 26 — the one and
 - ⚽ Match 76 – Group C winners vs Group F runners-up – _Houston Stadium_
     
 
-### ▶️ Tuesday, 30 June 2026**
+### ▶️ Tuesday, 30 June 2026
 
 - ⚽ Match 77 – Group I winners vs Group C/D/F/G/H third place – _New York/New Jersey Stadium_
     
@@ -246,7 +247,7 @@ Welcome to your ultimate match-tracking HQ for FIFA World Cup 26 — the one and
 - ⚽ Match 79 – Group A winners vs Group C/E/F/H/I third place – _Estadio Azteca, Mexico City_
     
 
-### ▶️ Wednesday, 1 July 2026**
+### ▶️ Wednesday, 1 July 2026
 
 - ⚽ Match 80 – Group L winners vs Group E/H/I/J/K third place – _Atlanta Stadium_
     
@@ -255,7 +256,7 @@ Welcome to your ultimate match-tracking HQ for FIFA World Cup 26 — the one and
 - ⚽ Match 82 – Group G winners vs Group A/E/H/I/J third place – _Seattle Stadium_
     
 
-### ▶️ Thursday, 2 July 2026**
+### ▶️ Thursday, 2 July 2026
 
 - ⚽ Match 83 – Group K runners-up vs Group L runners-up – _Toronto Stadium_
     
@@ -264,7 +265,7 @@ Welcome to your ultimate match-tracking HQ for FIFA World Cup 26 — the one and
 - ⚽ Match 85 – Group B winners vs Group E/F/G/I/J third place – _BC Place, Vancouver_
     
 
-### ▶️ Friday, 3 July 2026**
+### ▶️ Friday, 3 July 2026
 
 - ⚽ Match 86 – Group J winners vs Group H runners-up – _Miami Stadium_
     
@@ -275,28 +276,28 @@ Welcome to your ultimate match-tracking HQ for FIFA World Cup 26 — the one and
 
 ### ⚔️ Round of 16
 
-### ▶️ Saturday, 4 July 2026**
+### ▶️ Saturday, 4 July 2026
 
 - ⚽ Match 89 – Winner Match 74 vs Winner Match 77 – _Philadelphia Stadium_
     
 - ⚽ Match 90 – Winner Match 73 vs Winner Match 75 – _Houston Stadium_
     
 
-### ▶️ Sunday, 5 July 2026**
+### ▶️ Sunday, 5 July 2026
 
 - ⚽ Match 91 – Winner Match 76 vs Winner Match 78 – _New York/New Jersey Stadium_
     
 - ⚽ Match 92 – Winner Match 79 vs Winner Match 80 – _Estadio Azteca, Mexico City_
     
 
-### ▶️ Monday, 6 July 2026**
+### ▶️ Monday, 6 July 2026
 
 - ⚽ Match 93 – Winner Match 83 vs Winner Match 84 – _Dallas Stadium_
     
 - ⚽ Match 94 – Winner Match 81 vs Winner Match 82 – _Seattle Stadium_
     
 
-### ▶️ Tuesday, 7 July 2026**
+### ▶️ Tuesday, 7 July 2026
 
 - ⚽ Match 95 – Winner Match 86 vs Winner Match 88 – _Atlanta Stadium_
     
@@ -305,17 +306,17 @@ Welcome to your ultimate match-tracking HQ for FIFA World Cup 26 — the one and
 
 ### 🏆 Quarter-finals
 
-### ▶️ Thursday, 9 July 2026**
+### ▶️ Thursday, 9 July 2026
 
 - ⚽ Match 97 – Winner Match 89 vs Winner Match 90 – _Boston Stadium_
     
 
-### ▶️ Friday, 10 July 2026**
+### ▶️ Friday, 10 July 2026
 
 - ⚽ Match 98 – Winner Match 93 vs Winner Match 94 – _Los Angeles Stadium_
     
 
-### ▶️ Saturday, 11 July 2026**
+### ▶️ Saturday, 11 July 2026
 
 - ⚽ Match 99 – Winner Match 91 vs Winner Match 92 – _Miami Stadium_
     
@@ -324,26 +325,26 @@ Welcome to your ultimate match-tracking HQ for FIFA World Cup 26 — the one and
 
 ### 💥 Semi-finals
 
-### ▶️ Tuesday, 14 July 2026**
+### ▶️ Tuesday, 14 July 2026
 
 - ⚽ Match 101 – Winner Match 97 vs Winner Match 98 – _Dallas Stadium_
     
 
-### ▶️ Wednesday, 15 July 2026**
+### ▶️ Wednesday, 15 July 2026
 
 - ⚽ Match 102 – Winner Match 99 vs Winner Match 100 – _Atlanta Stadium_
     
 
 ### 🥉 Bronze Final
 
-### ▶️ Saturday, 18 July 2026**
+### ▶️ Saturday, 18 July 2026
 
 - ⚽ Match 103 – Loser Match 101 vs Loser Match 102 – _Miami Stadium_
     
 
 ### 🌍 The Final
 
-### ▶️ Sunday, 19 July 2026**
+### ▶️ Sunday, 19 July 2026
 
 - 🏆 Match 104 – Winner Match 101 vs Winner Match 102 – _New York/New Jersey Stadium_
 
