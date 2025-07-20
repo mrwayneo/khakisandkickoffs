@@ -1,7 +1,10 @@
 title: K A K O
 description: Khakis and Kick-offs, the Aussie fan’s World Cup 2026 travel toolkit
 theme: just-the-docs
-color_scheme: outback
+color_scheme: kako-light
+
+# Set a path/url to a favicon that will be displayed by the browser
+favicon_ico: "/assets/images/favicon.ico"
 
 url: https://khakisandkickoffs.carrd.co
 baseurl: ""
