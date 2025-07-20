@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/_includes/default.html.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "default.html"
+              "title": "index"
             }
           }
         ]
@@ -182,9 +182,9 @@
   },
   "active": "2923866652b7a23d",
   "lastOpenFiles": [
+    "docs/_includes/default.html.md",
     "docs/_includes/components/sidebar.html",
     "docs/index.md",
-    "docs/_includes/default.html.md",
     "docs/_includes/components/header.html.md",
     "docs/Extras/index.md",
     "docs/_includes/components",
@@ -217,7 +217,6 @@
     "docs/_sass/color_schemes",
     "docs/_sass/custom.scss",
     "docs/_sass",
-    "docs/Extras",
-    "docs/Social Media"
+    "docs/Extras"
   ]
 }
