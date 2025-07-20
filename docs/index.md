@@ -1,6 +1,6 @@
 ---
-title: Home
-nav_order: 1
+title: Khakis & Kick-Offs
+nav_exclude: true
 layout: default
 ---
 # Khakis & Kick-Offs 🇦🇺⚽✈️  
