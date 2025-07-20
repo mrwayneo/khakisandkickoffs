@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "Wayne-O Toolkit Workflow Reference.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Wayne-O Toolkit Workflow Reference"
             }
           }
         ]
@@ -182,9 +182,12 @@
   },
   "active": "2923866652b7a23d",
   "lastOpenFiles": [
+    "docs/assets/images/favicon.ico",
+    "docs/assets/images",
+    "docs/assets",
+    "docs/index.md",
     "docs/_includes/default.html.md",
     "docs/_includes/components/sidebar.html",
-    "docs/index.md",
     "docs/_includes/components/header.html.md",
     "docs/Extras/index.md",
     "docs/_includes/components",
@@ -215,8 +218,6 @@
     "itinerary.md",
     "docs/_sass/color_schemes/outback.scss",
     "docs/_sass/color_schemes",
-    "docs/_sass/custom.scss",
-    "docs/_sass",
-    "docs/Extras"
+    "docs/_sass/custom.scss"
   ]
 }

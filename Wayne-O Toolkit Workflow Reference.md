@@ -322,13 +322,13 @@ Welcome to the official **Khakis and Kick-Offs (KAKO)** style board — your one
 
 ## 🟫 Primary Colour Palette
 
-| Colour | Preview | HEX | Usage |
-|--------|---------|-----|-------|
-| Outback Khaki | ![#A1946A](https://placehold.co/25x25/A1946A/A1946A.png) | `#A1946A` | Main brand tone (Wayne-O shirt, headers, cards) |
-| Deep Navy | ![#1D2B3A](https://placehold.co/25x25/1D2B3A/1D2B3A.png) | `#1D2B3A` | Header text, hero backgrounds, Wayne-O hat |
-| Sandy Beige | ![#E8D8B3](https://placehold.co/25x25/E8D8B3/E8D8B3.png) | `#E8D8B3` | Backgrounds, info blocks, light overlays |
-| Football Green | ![#4C7C59](https://placehold.co/25x25/4C7C59/4C7C59.png) | `#4C7C59` | Highlight boxes, chalkboard elements |
-| Crowd Gold | ![#F6B042](https://placehold.co/25x25/F6B042/F6B042.png) | `#F6B042` | Energy pops, goal flashes, key links |
+| Colour         | Preview                                                  | HEX       | Usage                                           |
+| -------------- | -------------------------------------------------------- | --------- | ----------------------------------------------- |
+| Outback Khaki  | ![#A1946A](https://placehold.co/25x25/A1946A/A1946A.png) | `#A1946A` | Main brand tone (Wayne-O shirt, headers, cards) |
+| Deep Navy      | ![#1D2B3A](https://placehold.co/25x25/1D2B3A/1D2B3A.png) | `#1D2B3A` | Header text, hero backgrounds, Wayne-O hat      |
+| Sandy Beige    | ![#E8D8B3](https://placehold.co/25x25/E8D8B3/E8D8B3.png) | `#E8D8B3` | Backgrounds, info blocks, light overlays        |
+| Football Green | ![#4C7C59](https://placehold.co/25x25/4C7C59/4C7C59.png) | `#4C7C59` | Highlight boxes, chalkboard elements            |
+| Crowd Gold     | ![#F6B042](https://placehold.co/25x25/F6B042/F6B042.png) | `#F6B042` | Energy pops, goal flashes, key links            |
 
 ---
 
