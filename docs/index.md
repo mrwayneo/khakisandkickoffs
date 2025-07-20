@@ -2,7 +2,6 @@
 title: World Cup Fixtures
 nav_exclude: false
 layout: default
-permalink: /world-cup-fixtures/
 ---
 # 🌎 K A K O World Cup 2026 Match Tracker
 
