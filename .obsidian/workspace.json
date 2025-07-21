@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "Blog Style Guidelines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Blog Style Guidelines"
             }
           }
         ]
@@ -182,6 +182,7 @@
   },
   "active": "2923866652b7a23d",
   "lastOpenFiles": [
+    "docs/index.md",
     "docs/Blog/2025-07-17-ticket-sale-update.md",
     "docs/assets/images/web-app-manifest-512x512.png",
     "docs/assets/images/web-app-manifest-192x192.png",
@@ -197,7 +198,6 @@
     "docs/assets/images/favicon.ico",
     "docs/assets/images",
     "docs/assets",
-    "docs/index.md",
     "docs/_includes/default.html.md",
     "docs/_includes/components/sidebar.html",
     "docs/_includes/components/header.html.md",
