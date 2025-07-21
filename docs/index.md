@@ -63,10 +63,10 @@ Match 20 – Group J – _San Francisco Bay Area Stadium_
 
 ### Wednesday, 17 June 2026
 
-Match 21 – Group L – _Toronto Stadium_
-Match 22 – Group L – _Dallas Stadium_
-Match 23 – Group K – _Houston Stadium_
-Match 24 – Group K – _Estadio Azteca, Mexico City_
+Match 21 – Group L – _Toronto Stadium_   
+Match 22 – Group L – _Dallas Stadium_   
+Match 23 – Group K – _Houston Stadium_   
+Match 24 – Group K – _Estadio Azteca, Mexico City_   
 
 ### Thursday, 18 June 2026
 
