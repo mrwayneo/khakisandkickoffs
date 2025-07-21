@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Blog/2025-07-17-ticket-sale-update.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-17-ticket-sale-update"
+              "title": "index"
             }
           }
         ]
@@ -182,6 +182,7 @@
   },
   "active": "2923866652b7a23d",
   "lastOpenFiles": [
+    "docs/Blog/2025-07-17-ticket-sale-update.md",
     "docs/assets/images/web-app-manifest-512x512.png",
     "docs/assets/images/web-app-manifest-192x192.png",
     "docs/assets/images/favicon.svg",
@@ -192,7 +193,6 @@
     "Blog Style Guidelines.md",
     "docs/assets/images/DCCBE9F7-25E4-4AD8-BDD9-0598ADF5A809_1_201_a.jpeg",
     "Wayne-O Toolkit Workflow Reference.md",
-    "docs/Blog/2025-07-17-ticket-sale-update.md",
     "docs/_sass/color_schemes/kako-light.scss",
     "docs/assets/images/favicon.ico",
     "docs/assets/images",
