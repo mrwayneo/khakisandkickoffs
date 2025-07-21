@@ -21,6 +21,11 @@ $search-result-preview-color: #1a1a1a; // Strong contrast preview text
 $root-font-size: 20px;
 $body-line-height: 1.6;
 
+h2 {
+  font-weight: 400;
+  color: #6B6B6B;
+}
+
 // Disable features 
 
 .site-title:hover,
