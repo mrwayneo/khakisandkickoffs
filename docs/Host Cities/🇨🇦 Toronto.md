@@ -11,7 +11,7 @@ Welcome to Toronto — Canada's cultural mosaic and sports-mad metropolis. Betwe
 
 ---
 
-## **🏟️ Matches in Toronto**
+## 🏟️ Matches in Toronto
 
 - **Friday, 12 June 2026** – Match 3 – Group B (Canada #1)
     
