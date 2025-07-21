@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Blog/2025-07-17-ticket-sale-update.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2025-07-17-ticket-sale-update"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "2923866652b7a23d",
   "lastOpenFiles": [
-    "Blog Style Guidelines.md",
     "docs/index.md",
+    "Blog Style Guidelines.md",
     "docs/Blog/2025-07-17-ticket-sale-update.md",
     "docs/assets/images/web-app-manifest-512x512.png",
     "docs/assets/images/web-app-manifest-192x192.png",
