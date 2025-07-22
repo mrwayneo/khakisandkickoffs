@@ -1,14 +1,14 @@
 ---
-title: 🚨 New Ticket Sales Phase Opens – What You Need to Know
+title: New Ticket Sales Phase Opens – What You Need to Know
 parent: Blog & Updates
 nav_order: 1
 layout: default
 permalink: /2025-07-17-ticket-sale-update/
 ---
-# 🎟️ The Ticket Drop Heard 'Round the World 
+# The Ticket Drop Heard 'Round the World 
 
 ## FIFA World Cup 2026 Tickets Go On Sale – September 2025  
-{: .fs-6 .fw-400 .text-grey-dk-000}
+{: .fs-6 .fw-400 .kako-subtitle}
 
 **By Wayne-O**  📅  Posted: July 17, 2025  ⏱ 3 min read  🔗 [Share this article](https://x.com/khakisnkickoffs)
 
