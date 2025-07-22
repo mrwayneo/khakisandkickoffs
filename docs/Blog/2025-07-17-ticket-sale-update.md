@@ -9,10 +9,7 @@ permalink: /2025-07-17-ticket-sale-update/
 
 ## FIFA World Cup 2026 Tickets Go On Sale – September 2025  
 
-**By Wayne-O**  
-📅 *Posted: July 17, 2025*  
-⏱ *Read time: 3 min*  
-🔗 *[Share this article](#)*
+**By Wayne-O**  📅 *Posted: July 17, 2025*  ⏱ 3 min read  🔗 *[Share this article](https://x.com/khakisnkickoffs)*
 
 ---
 
