@@ -182,6 +182,15 @@
   },
   "active": "2923866652b7a23d",
   "lastOpenFiles": [
+    "docs/_sass/custom/_base.scss",
+    "docs/_sass/custom/_variables.scss",
+    "docs/_sass/custom/_content.scss",
+    "docs/_sass/custom/_navigation.scss",
+    "docs/_sass/custom/navigation.scss",
+    "docs/_sass/custom/_layout.scss",
+    "docs/_sass/custom/_sidebar.scss",
+    "docs/_sass/custom/_typography.scss",
+    "docs/_sass/custom",
     "docs/Blog/2025-07-17-ticket-sale-update.md",
     "docs/index.md",
     "Blog Style Guidelines.md",
@@ -196,14 +205,9 @@
     "Wayne-O Toolkit Workflow Reference.md",
     "docs/_sass/color_schemes/kako-light.scss",
     "docs/assets/images/favicon.ico",
-    "docs/assets/images",
-    "docs/assets",
     "docs/_includes/default.html.md",
-    "docs/_includes/components/sidebar.html",
     "docs/_includes/components/header.html.md",
     "docs/Extras/index.md",
-    "docs/_includes/components",
-    "docs/_includes",
     "docs/Youtube/index.md",
     "docs/Social Media/index.md",
     "docs/Threads/index.md",
@@ -211,7 +215,6 @@
     "docs/Stadiums/index.md",
     "docs/Planning/📝 Itinerary.md",
     "docs/Planning/✈️ Flights.md",
-    "docs/_sass/color_schemes/kako.scss",
     "docs/Host Cities/🇲🇽 Monterrey.md",
     "docs/Host Cities/🇲🇽 Mexico City.md",
     "docs/Stadiums/Atlanta Stadium.md",
@@ -223,8 +226,6 @@
     "docs/Planning/🏨 Accomodation.md",
     "8CB4A9DB-F09F-4495-A287-5C8789121262_1_105_c.jpeg",
     "docs/Planning/🎟️ Tickets.md",
-    "docs/Blog",
-    "docs/Matchday/Flags & Chants.md",
-    "docs/_sass/color_schemes/outback.scss"
+    "docs/Matchday/Flags & Chants.md"
   ]
 }

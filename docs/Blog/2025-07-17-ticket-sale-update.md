@@ -6,13 +6,8 @@ layout: default
 permalink: /2025-07-17-ticket-sale-update/
 ---
 # 🎟️ The Ticket Drop Heard 'Round the World 
-{: .fw-700 }
+
 ## FIFA World Cup 2026 Tickets Go On Sale – September 2025  
-
-![Hero image: Silhouette of a fan walking into a glowing stadium tunnel](https://github.com/mrwayneo/khakisandkickoffs/blob/main/docs/assets/images/hero-blog-ep1.jpeg?raw=true)  
-*“One ticket. Three nations. Unlimited chaos.”*
-
----
 
 **By Wayne-O**  
 📅 *Posted: July 17, 2025*  
@@ -20,6 +15,12 @@ permalink: /2025-07-17-ticket-sale-update/
 🔗 *[Share this article](#)*
 
 ---
+
+![Hero image: Silhouette of a fan walking into a glowing stadium tunnel](https://github.com/mrwayneo/khakisandkickoffs/blob/main/docs/assets/images/hero-blog-ep1.jpeg?raw=true)  
+*“One ticket. Three nations. Unlimited chaos.”*
+
+---
+
 
 > “Duuude… it’s finally happening.”
 

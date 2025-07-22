@@ -1,5 +1,8 @@
 // kako-light.scss
 
+// --- 🧪 Your Variables First ---
+@import "../custom/variables";
+
 $body-background-color: #ffffff; // Clean white
 $body-heading-color: #111111;    // Bold near-black headings
 $body-text-color: #2b2b2b;       // Deep neutral grey for body
@@ -15,6 +18,13 @@ $feedback-color: #ededed;        // Very light grey hover panels
 $table-background-color: #ffffff;
 $search-background-color: #ffffff;
 $search-result-preview-color: #1a1a1a; // Strong contrast preview text
+
+// 👇 Now import your modular custom styles
+@import "../custom/base";
+@import "../custom/content";
+@import "../custom/layout";
+@import "../custom/navigation";
+@import "../custom/typography";
 
 // Readability
 
@@ -33,70 +43,6 @@ body {
 }
 
 
-// Typography
-// stylelint-disable selector-no-type, selector-max-type, selector-max-specificity, selector-max-id
-
-h1,
-.text-alpha {
-  font-weight: 700;
-
-  @include fs-9;
-}
-
-h2,
-.text-beta,
-#toctitle {
-  @include fs-6;
-}
-
-h3,
-.text-gamma {
-  @include fs-5;
-}
-
-h4,
-.text-delta {
-  font-weight: 400;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-
-  @include fs-2;
-}
-
-h4 code {
-  text-transform: none;
-}
-
-h5,
-.text-epsilon {
-  @include fs-3;
-}
-
-h6,
-.text-zeta {
-  @include fs-2;
-}
-
-.text-small {
-  @include fs-2;
-}
-
-.text-mono {
-  font-family: $mono-font-family !important;
-}
-
-.text-left {
-  text-align: left !important;
-}
-
-.text-center {
-  text-align: center !important;
-}
-
-.text-right {
-  text-align: right !important;
-}
-
 // Now override typography LAST to ensure priority
 .main-content h1,
 .main-content h2,
@@ -107,16 +53,5 @@ h6,
 }
 
 
-// Disable features 
-
-.site-title:hover,
-.site-button:hover,
-.nav-list:hover,
-.nav-list-item:hover,
-.nav-list-link:hover {
-  background-image: none;
-  background-color: transparent;
-  color: #A1946A; // Kako Outback Khaki
-}
 
  
