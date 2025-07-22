@@ -39,7 +39,7 @@ body {
 h1,
 .text-alpha {
   font-weight: 700;
-  
+
   @include fs-9;
 }
 
@@ -95,6 +95,15 @@ h6,
 
 .text-right {
   text-align: right !important;
+}
+
+// Now override typography LAST to ensure priority
+.main-content h1,
+.main-content h2,
+.main-content h3 {
+  font-weight: 700;
+  font-family: 'Inter', sans-serif;
+  color: #2f2f2f;
 }
 
 
