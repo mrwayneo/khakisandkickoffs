@@ -4,7 +4,7 @@ nav_exclude: false
 layout: default
 nav_order: 1
 ---
-# K A K O World Cup 2026 Match Tracker
+# World Cup 2026 Match Tracker
 {: .fs-9 .fw-700}
 
 Welcome to your ultimate match-tracking HQ for FIFA World Cup 26 — the one and only KAKO landing pad for plotting Wayne-O's game plan across the USA, Mexico, and Canada. Whether you're locking in tix or just vibing the schedule, this page is made to evolve as teams qualify and travels take shape.
