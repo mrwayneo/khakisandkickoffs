@@ -31,10 +31,6 @@ $search-result-preview-color: #1a1a1a; // Strong contrast preview text
 $root-font-size: 20px;
 $body-line-height: 1.6;
 
-.site-title {
-  font-weight: 700;
-}
-
 // Base body styles
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
@@ -45,6 +41,9 @@ body {
   background-color: $body-background-color;
 }
 
+.site-title {
+  font-weight: 700;
+}
 
 // Now override typography LAST to ensure priority
 .main-content h1,
