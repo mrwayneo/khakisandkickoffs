@@ -56,7 +56,7 @@
 
       &:hover,
       &.active {
-        background-image: none;
+        background-image: none !important;
         color: $kako-khaki;
       }
     }
@@ -79,7 +79,7 @@
       }
 
       &:hover {
-        background-image: none;
+        background-image: none !important;
       }
 
       @if $nav-list-expander-right {
