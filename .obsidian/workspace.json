@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Blog/2025-07-17-ticket-sale-update.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-17-ticket-sale-update"
+              "title": "index"
             }
           }
         ]
@@ -182,8 +182,10 @@
   },
   "active": "2923866652b7a23d",
   "lastOpenFiles": [
-    "Blog Style Guidelines.md",
+    "docs/Planning/🏨 Accomodation.md",
     "docs/index.md",
+    "docs/Blog/2025-07-17-ticket-sale-update.md",
+    "Blog Style Guidelines.md",
     "docs/_sass/custom/_base.scss",
     "docs/_sass/custom/_variables.scss",
     "docs/_sass/custom/_content.scss",
@@ -193,7 +195,6 @@
     "docs/_sass/custom/_sidebar.scss",
     "docs/_sass/custom/_typography.scss",
     "docs/_sass/custom",
-    "docs/Blog/2025-07-17-ticket-sale-update.md",
     "docs/assets/images/web-app-manifest-512x512.png",
     "docs/assets/images/web-app-manifest-192x192.png",
     "docs/assets/images/favicon.svg",
@@ -222,7 +223,6 @@
     "docs/Host Cities/🇨🇦 Toronto.md",
     "docs/Blog/index.md",
     "docs/Youtube/🫥 FWC26 Ep 2 Plan.md",
-    "docs/Planning/🏨 Accomodation.md",
     "8CB4A9DB-F09F-4495-A287-5C8789121262_1_105_c.jpeg",
     "docs/Planning/🎟️ Tickets.md",
     "docs/Matchday/Flags & Chants.md"

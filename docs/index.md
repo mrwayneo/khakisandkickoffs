@@ -67,7 +67,7 @@ Match 16 – Group G – _Seattle Stadium_
 
 
 ✨ Match 17 – Group I – _New York/New Jersey Stadium_  
-Match 18 – Group I – _Boston Stadium_  
+✨ Match 18 – Group I – _Boston Stadium_  
 Match 19 – Group J – _Kansas City Stadium_  
 Match 20 – Group J – _San Francisco Bay Area Stadium_  
 
@@ -82,7 +82,7 @@ Match 24 – Group K – _Estadio Azteca, Mexico City_
 ### Thursday, 18 June 2026
 
 
-Match 25 – Group A – _Atlanta Stadium_  
+✨ Match 25 – Group A – _Atlanta Stadium_  
 Match 26 – Group B – _Los Angeles Stadium_  
 Match 27 – Group B (🇨🇦 #2) – _BC Place, Vancouver_  
 Match 28 – Group A (🇲🇽 #2) – _Estadio Guadalajara_  
@@ -90,8 +90,8 @@ Match 28 – Group A (🇲🇽 #2) – _Estadio Guadalajara_
 ### Friday, 19 June 2026
 
 
-Match 29 – Group C – _Philadelphia Stadium_  
-Match 30 – Group C – _Boston Stadium_  
+✨ Match 29 – Group C – _Philadelphia Stadium_  
+✨ Match 30 – Group C – _Boston Stadium_  
 Match 31 – Group D – _San Francisco Bay Area Stadium_  
 Match 32 – Group D (🇺🇸 #2) – _Seattle Stadium_  
 
@@ -107,7 +107,7 @@ Match 36 – Group F – _Estadio Monterrey_
 
 
 ✨ Match 37 – Group H – _Miami Stadium_  
-Match 38 – Group H – _Atlanta Stadium_  
+✨ Match 38 – Group H – _Atlanta Stadium_  
 Match 39 – Group G – _Los Angeles Stadium_  
 Match 40 – Group G – _BC Place, Vancouver_  
 
@@ -131,7 +131,7 @@ Match 48 – Group K – _Estadio Guadalajara_
 
 
 ✨ Match 49 – Group C – _Miami Stadium_  
-Match 50 – Group C – _Atlanta Stadium_  
+✨ Match 50 – Group C – _Atlanta Stadium_  
 Match 51 – Group B (🇨🇦 #3) – _BC Place, Vancouver_  
 Match 52 – Group B – _Seattle Stadium_  
 Match 53 – Group A (🇲🇽 #3) – _Estadio Azteca, Mexico City_  
@@ -164,13 +164,13 @@ Match 67 – Group L – _New York/New Jersey Stadium_
 Match 68 – Group L – _Philadelphia Stadium_  
 Match 69 – Group J – _Kansas City Stadium_  
 Match 70 – Group J – _Dallas Stadium_  
-Match 71 – Group K – _Miami Stadium_  
-Match 72 – Group K – _Atlanta Stadium_  
+✨ Match 71 – Group K – _Miami Stadium_  
+✨ Match 72 – Group K – _Atlanta Stadium_  
 
 ## 🚀 Knockouts to Final
-{: .fs-6 .fw-400}
+
 ### 🔥 Round of 32
-{: .fs-6 .fw-400}
+
 ### Sunday, 28 June 2026
 
 
@@ -213,7 +213,7 @@ Match 87 – Group K winners vs Group D/E/I/J/L third place – _Kansas City St
 Match 88 – Group D runners-up vs Group G runners-up – _Dallas Stadium_  
 
 ### ⚔️ Round of 16
-{: .fs-6 .fw-400}
+
 ### Saturday, 4 July 2026
 
 
