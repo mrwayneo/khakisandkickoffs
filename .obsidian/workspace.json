@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Planning/🧳 Gear.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "🧳 Gear"
             }
           }
         ]
@@ -182,8 +182,9 @@
   },
   "active": "2923866652b7a23d",
   "lastOpenFiles": [
-    "docs/Planning/🏨 Accomodation.md",
+    "docs/Planning/📝 Itinerary.md",
     "docs/index.md",
+    "docs/Planning/🏨 Accomodation.md",
     "docs/Blog/2025-07-17-ticket-sale-update.md",
     "Blog Style Guidelines.md",
     "docs/_sass/custom/_base.scss",
@@ -213,7 +214,6 @@
     "docs/Threads/index.md",
     "docs/Host Cities/index.md",
     "docs/Stadiums/index.md",
-    "docs/Planning/📝 Itinerary.md",
     "docs/Planning/✈️ Flights.md",
     "docs/Host Cities/🇲🇽 Monterrey.md",
     "docs/Host Cities/🇲🇽 Mexico City.md",

@@ -1,12 +1,12 @@
 ---
-title: FWC26 Itinerary (Draft)
+title: Itinerary
 nav_order: 1
 layout: default
 parent: Planning
 permalink: /itinerary/
 ---
 
-# **🇺🇸 FWC26 Itinerary (Draft)**
+# Itinerary... Hypothetical
 
   
 
