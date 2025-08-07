@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Planning/🧳 Gear.md",
+                "file": "docs/Planning/📝 Itinerary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🧳 Gear"
+              "title": "📝 Itinerary"
             }
           }
         ]
@@ -182,7 +182,22 @@
   },
   "active": "2923866652b7a23d",
   "lastOpenFiles": [
+    "Screenshot 2025-08-07 at 3.04.59 pm.png",
+    "docs/Planning/index.md",
     "docs/Planning/📝 Itinerary.md",
+    "docs/Youtube/Podcast/Episode 2/🫥 FWC26 Ep 2 Plan.md",
+    "docs/Youtube/Podcast/Episode 2/FWC26 Ep 2 Draft 1.md",
+    "docs/Youtube/Music Videos/No One Gave Us This/Speech.md",
+    "docs/Youtube/Music Videos/No One Gave Us This/Lyrics.md",
+    "docs/Youtube/Music Videos/No One Gave Us This/Character Sheet.md",
+    "docs/Youtube/Music Videos/No One Gave Us This/Anthem Story Script.md",
+    "docs/Youtube/Music Videos/No One Gave Us This",
+    "docs/Youtube/Music Videos/Untitled 1.md",
+    "docs/Youtube/Music Videos",
+    "docs/Youtube/Podcast",
+    "docs/Youtube/Podcast/Episode 2",
+    "docs/Planning/🧳 Gear.md",
+    "docs/Untitled",
     "docs/index.md",
     "docs/Planning/🏨 Accomodation.md",
     "docs/Blog/2025-07-17-ticket-sale-update.md",
@@ -192,10 +207,6 @@
     "docs/_sass/custom/_content.scss",
     "docs/_sass/custom/_navigation.scss",
     "docs/_sass/custom/navigation.scss",
-    "docs/_sass/custom/_layout.scss",
-    "docs/_sass/custom/_sidebar.scss",
-    "docs/_sass/custom/_typography.scss",
-    "docs/_sass/custom",
     "docs/assets/images/web-app-manifest-512x512.png",
     "docs/assets/images/web-app-manifest-192x192.png",
     "docs/assets/images/favicon.svg",
@@ -205,7 +216,6 @@
     "docs/assets/images/hero-blog-ep1.jpeg",
     "docs/assets/images/DCCBE9F7-25E4-4AD8-BDD9-0598ADF5A809_1_201_a.jpeg",
     "Wayne-O Toolkit Workflow Reference.md",
-    "docs/_sass/color_schemes/kako-light.scss",
     "docs/_includes/default.html.md",
     "docs/_includes/components/header.html.md",
     "docs/Extras/index.md",
@@ -216,15 +226,6 @@
     "docs/Stadiums/index.md",
     "docs/Planning/✈️ Flights.md",
     "docs/Host Cities/🇲🇽 Monterrey.md",
-    "docs/Host Cities/🇲🇽 Mexico City.md",
-    "docs/Stadiums/Atlanta Stadium.md",
-    "docs/Matchday/index.md",
-    "docs/Planning/index.md",
-    "docs/Host Cities/🇨🇦 Toronto.md",
-    "docs/Blog/index.md",
-    "docs/Youtube/🫥 FWC26 Ep 2 Plan.md",
-    "8CB4A9DB-F09F-4495-A287-5C8789121262_1_105_c.jpeg",
-    "docs/Planning/🎟️ Tickets.md",
-    "docs/Matchday/Flags & Chants.md"
+    "8CB4A9DB-F09F-4495-A287-5C8789121262_1_105_c.jpeg"
   ]
 }
