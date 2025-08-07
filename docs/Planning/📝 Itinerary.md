@@ -12,7 +12,10 @@ permalink: /itinerary/
 
 A minimalist, expandable itinerary to guide your World Cup 2026 journey — matchday priorities, stays, travel flow, and fan-life tips baked in. 
 
-![[Screenshot 2025-08-07 at 3.04.59 pm.png]]
+
+
+![Travel Timeline](../assets/images/travel-timeline.png)
+
 
 ---
 
